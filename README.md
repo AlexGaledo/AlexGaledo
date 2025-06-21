@@ -15,7 +15,6 @@
 - Write smart contracts and dabble in Web3 using Solidity.
 - Hackathon enthusiast—always up for a challenge and rapid prototyping!
 - Open to collaboration and exciting projects.  
-  📬 **DM me:** alexgaledo@gmail.com
 
 ---
 
