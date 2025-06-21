@@ -41,6 +41,5 @@ I'm a passionate builder who thrives at the intersection of web development, AI,
 
 ---
 
-## ⚡ Fun Fact
 
 > `"npm run dev"` is my love language.  
