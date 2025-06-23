@@ -42,4 +42,4 @@ I'm a passionate builder who thrives at the intersection of web development, AI,
 ---
 
 
-> `"npm run dev"` is my love language.  
+> npm run dev
