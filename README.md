@@ -1,20 +1,17 @@
 # Hi, I'm Alex Galedo 👋
 
 🎓 **BSCS Student**  
-🌐 **Web Developer** | ⚛️ React.js | 🐍 Flask APIs  
-🧠 **AI Integrator** | 🌍 Web3 Enthusiast (Solidity)  
+🌐 **Web Developer** | ⚛️ Javascript | 🐍 Python  
+🧠 **AI Integration** | 🌍 Web3
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate builder who thrives at the intersection of web development, AI, and blockchain.
-
 - 🔧 Currently working with **React.js** for front-end and **Flask** for backend APIs
-- 🤖 Love integrating **AI APIs and models** into real-world apps
-- 🔗 Writing **smart contracts** in Solidity and exploring the Web3 space
-- 🏆 Frequent **hackathon participant** – rapid prototyping is my game
-- 💡 Always exploring new technologies, open to collabs and side projects!
+- 🔗 Writing **smart contracts** in Solidity and exploring the Web3 technology
+- 🏆 Frequent **hackathon participant** – rapid prototyping 
+- 💡 open to collabs and side projects!
 
 ---
 
