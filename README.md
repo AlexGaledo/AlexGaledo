@@ -5,7 +5,7 @@
 🧠 **AI Integration** | 🌍 Web3
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGaledolayout=compact&theme=tokyonight&hide_border=true)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGaledo&layout=compact&theme=tokyonight&hide_border=true)]
 ---
 
 
