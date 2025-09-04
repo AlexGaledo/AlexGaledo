@@ -3,8 +3,12 @@
 🎓 **BSCS Student**  
 🌐 **Web Developer** | ⚛️ Javascript | 🐍 Python  
 🧠 **AI Integration** | 🌍 Web3
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGaledo)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGaledolayout=compact&theme=tokyonight&hide_border=true)]
 ---
+
+
 
 ## 👨‍💻 About Me
 
