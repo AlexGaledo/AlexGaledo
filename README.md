@@ -2,7 +2,7 @@
 
 🎓 **BSCS Student**  
 🌐 **Web Developer** | ⚛️ Javascript | 🐍 Python  
-🧠 **AI Integration** | 🌍 Web3 | MATCHA LOVER🦗
+🧠 **AI Integration** | 🌍 Web3 | 🦗 MATCHA LOVER
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGaledo&layout=compact&theme=tokyonight&hide_border=true)
