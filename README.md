@@ -1,8 +1,7 @@
 # Hi, I'm Alex Galedo 👋
 
 🎓 **BSCS Student**  
-🌐 **Web Developer** | ⚛️ Javascript | 🐍 Python  
-🧠 **AI Integration** | 🌍 Web3 | 🦗 MATCHA LOVER | 🐈CAT OWNER |🙆‍♀️I LOVE feminist literature |🎶I LISTEN TO CLAIRO & LAUFEY btw
+🦗 MATCHA LOVER | 🐈CAT OWNER |🙆‍♀️I LOVE feminist literature |🎶I LISTEN TO CLAIRO & LAUFEY btw
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGaledo&layout=compact&theme=tokyonight&hide_border=true)
