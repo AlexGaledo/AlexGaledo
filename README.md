@@ -1,7 +1,7 @@
 # Hi, I'm Alex Galedo 👋
 
 🎓 **BSCS Student**  
-🦗 MATCHA LOVER | 🐈CAT OWNER |🙆‍♀️I LOVE feminist literature |🎶I LISTEN TO CLAIRO & LAUFEY btw
+washed up 9th grade developer
 
 
 
