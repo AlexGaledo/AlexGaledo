@@ -1,7 +1,7 @@
 # Hi, I'm Alex Galedo 👋
 
 🎓 **BSCS Student**  
-washed up 9th grade developer
+i love thursdays
 
 
 
