@@ -34,6 +34,7 @@ i love thursdays
 
 📬 **Email:** [alexgaledo@gmail.com](mailto:alexgaledo@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/alexander-galedo](https://www.linkedin.com/in/alexander-galedo)
+📖 **Portfolio:** [Alex Galedo Portfolio](alex-galedo.vercel.app)
 
 ---
 
